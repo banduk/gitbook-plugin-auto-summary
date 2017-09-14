@@ -1,0 +1,17 @@
+{
+  "name": "gitbook-plugin-auto-summary",
+  "version": "0.0.1",
+  "description": "Automatically generate a summary file for gitbook using file structure and contents",
+  "engines": {
+    "gitbook": ">2.x.x"
+  },
+  "keywords": [
+    "gitbook",
+    "markdown"
+  ],
+  "author": "MADE Agency",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-toc": "^1.1.0"
+  }
+}
